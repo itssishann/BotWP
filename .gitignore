@@ -1,0 +1,6 @@
+.wwebjs_cache/
+.env
+GOLearn/
+session.json
+node_modules/
+test.js
